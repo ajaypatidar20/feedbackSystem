@@ -4,10 +4,7 @@
  */
 package com.feedback.bean;
 
-/**
- *
- * @author Girjesh
- */
+
 public class Comments {
     String comment;
 
